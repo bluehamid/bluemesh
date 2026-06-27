@@ -5,9 +5,8 @@ REPO_URL="https://raw.githubusercontent.com/bluehamid/bluemesh/main"
 INSTALL_DIR="/usr/local/bin"
 SCRIPT_NAME="bluemesh"
 
-echo "Installing BlueMesh..."
+echo "Installing BlueMesh v3.0..."
 
-# Check root
 if [[ $EUID -ne 0 ]]; then
     echo "Please run as root"
     exit 1
