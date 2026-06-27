@@ -2,7 +2,14 @@
 
 BlueMesh is a modern, user-friendly VPN network manager based on EasyTier.
 
-## Quick Install
+## ✨ Features
+- 🚀 Easy Installation
+- 🎨 Modern UI
+- 🔄 Auto-Update
+- 🔒 WireGuard Support
+
+## 🚀 Quick Install
+
 ```bash
 bash <(curl -s https://raw.githubusercontent.com/bluehamid/bluemesh/main/install.sh)
 ```
